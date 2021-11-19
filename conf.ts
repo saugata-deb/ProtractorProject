@@ -1,10 +1,8 @@
 import { Config, browser } from "protractor"
 
 export let config:Config={
-
-    directConnect: true,
     framework: "jasmine",
-
+    directConnect: true,
     capabilities:{
         browserName:'chrome',
         //browserName:'firefox',

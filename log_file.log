@@ -1,11 +1,11 @@
-[2021-11-19T02:36:33.190] [DEBUG] default - Alert Text:Customer added successfully with customer id :6
-[2021-11-19T02:36:37.603] [DEBUG] default - Drop-down option size:7
-[2021-11-19T02:36:37.619] [DEBUG] default - ---Customer Name---
-[2021-11-19T02:36:37.631] [DEBUG] default - Hermoine Granger
-[2021-11-19T02:36:37.644] [DEBUG] default - Harry Potter
-[2021-11-19T02:36:37.656] [DEBUG] default - Ron Weasly
-[2021-11-19T02:36:37.668] [DEBUG] default - Albus Dumbledore
-[2021-11-19T02:36:37.680] [DEBUG] default - Neville Longbottom
-[2021-11-19T02:36:37.695] [DEBUG] default - Item found in the list:ABC XYZ
-[2021-11-19T02:36:37.692] [DEBUG] default - ABC XYZ
-[2021-11-19T02:36:41.812] [DEBUG] default - Alert Text:Account created successfully with account Number :1016
+[2021-11-19T13:56:20.033] [DEBUG] default - Alert Text:Customer added successfully with customer id :6
+[2021-11-19T13:56:24.500] [DEBUG] default - Drop-down option size:7
+[2021-11-19T13:56:24.533] [DEBUG] default - ---Customer Name---
+[2021-11-19T13:56:24.563] [DEBUG] default - Hermoine Granger
+[2021-11-19T13:56:24.593] [DEBUG] default - Harry Potter
+[2021-11-19T13:56:24.622] [DEBUG] default - Ron Weasly
+[2021-11-19T13:56:24.651] [DEBUG] default - Albus Dumbledore
+[2021-11-19T13:56:24.680] [DEBUG] default - Neville Longbottom
+[2021-11-19T13:56:24.722] [DEBUG] default - Item found in the list:ABC XYZ
+[2021-11-19T13:56:24.715] [DEBUG] default - ABC XYZ
+[2021-11-19T13:56:29.009] [DEBUG] default - Alert Text:Account created successfully with account Number :1016

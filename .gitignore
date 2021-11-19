@@ -2,3 +2,4 @@ node_modules/
 out/
 allure-results/
 
+log_file.log
