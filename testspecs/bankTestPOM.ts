@@ -34,7 +34,7 @@ describe("Banking Project Test",async function(){
       browser.sleep(2000);
 
       await new CustomerPage().VerifyCustEntryAndDelete();
-      browser.sleep(2000);
+      browser.sleep(3000);
 
     })
 })
