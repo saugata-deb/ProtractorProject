@@ -1,0 +1,25 @@
+{
+  "name": "protractorproject",
+  "version": "1.0.0",
+  "description": "Demo Project",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "pretest": "npm run tsc",
+    "test": "protractor out/conf.js"
+  },
+  "author": "Saugata Deb",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "3.10.2",
+    "allure-commandline": "^2.13.8",
+    "jasmine-allure-reporter": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.7",
+    "jasmine": "3.10.0",
+    "log4js": "6.3.0",
+    "protractor": "7.0.0",
+    "typescript": "4.4.4"
+  }
+}

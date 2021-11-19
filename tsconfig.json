@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+   
+    "target": "es5",                                   
+    "module": "commonjs",                             
+    "strict": true,
+    "sourceMap": true,                                
+    "outDir": "./out",
+    "types": ["jasmine","node"]
+  },
+  "exlude":[
+    "node_modules/*"
+  ]
+}
