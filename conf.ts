@@ -15,7 +15,7 @@ export let config:Config={
         bank:['./testspecs/bankTest.js'],
         bothapp:['./src/Calculator.js', './testspecs/bankTest.js']
     },
-    specs:['./testspecs/bankTest.js'],
+    specs:['./testspecs/bankTest.js','./src/Calculator.js'],
     seleniumAddress:'http://localhost:4444/wd/hub',
     
     onPrepare:()=>{
