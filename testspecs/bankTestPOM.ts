@@ -16,7 +16,7 @@ describe("Banking Project Test",async function(){
         await browser.get(prop1.siteUrl);
         
     })
-    it("Verify the flow",async function(){
+    it("Verify Add Customer Details",async function(){
       
       let addCustomer=new AddCustomerPage();
       await addCustomer.AddCustomer();
