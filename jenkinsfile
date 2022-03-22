@@ -1,7 +1,6 @@
 pipeline
 {
 agents any
-{
   stages
   {
     stage('Build')
@@ -32,6 +31,6 @@ agents any
             echo "Releasing the project..."
         }
     }
-   }
-}
+   
+  }
 }
